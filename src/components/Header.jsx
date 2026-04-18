@@ -1,3 +1,4 @@
+// Import necessary states, effects, and components
 import React from "react";
 
 function Header() {
@@ -11,4 +12,5 @@ function Header() {
   );
 }
 
+// Make globally available
 export default Header;
